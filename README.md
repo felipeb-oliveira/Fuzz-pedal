@@ -17,8 +17,9 @@ The results were as expected: hard wave clipping with high assymetry, as seen be
 Low Fuzz:
 
 ![Low Fuzz Simulation](https://github.com/felipeb-oliveira/Fuzz-pedal/blob/master/images/lowFuzz.PNG)
-Format: ![Alt text](url) 
+
 
 High Fuzz:
+
 ![High Fuzz Simulation](https://github.com/felipeb-oliveira/Fuzz-pedal/blob/master/images/highFuzz.PNG)
-Format: ![Alt text](url) 
+
