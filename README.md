@@ -11,7 +11,7 @@ This guitar pedal was designed by me, and inspired by classic and simple Fuzz pe
 
 
 ## Board
-![Fuzz pedal board](https://github.com/felipeb-oliveira/Fuzz-pedal/blob/master/images/board.PNG)
+![Fuzz pedal board](https://github.com/felipeb-oliveira/Fuzz-pedal/blob/master/images/board.png)
 
 ## Results
 The results were as expected: hard wave clipping with high assymetry, as seen below.
