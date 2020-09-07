@@ -25,3 +25,4 @@ High Fuzz:
 
 ![High Fuzz Simulation](https://github.com/felipeb-oliveira/Fuzz-pedal/blob/master/images/highFuzz.PNG)
 
+
